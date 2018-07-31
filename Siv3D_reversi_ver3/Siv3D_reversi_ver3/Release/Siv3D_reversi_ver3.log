@@ -1,0 +1,17 @@
+﻿  Game.cpp
+  Main.cpp
+  Management.cpp
+  Replay.cpp
+Game.cpp(187): warning C4100: 'color': 引数は関数の本体部で 1 度も参照されません。
+Game.cpp(455): warning C4189: 'cw': ローカル変数が初期化されましたが、参照されていません
+Game.cpp(454): warning C4189: 'cb': ローカル変数が初期化されましたが、参照されていません
+  Result.cpp
+  ReversiLog.cpp
+  Scene.cpp
+  Title.cpp
+     ライブラリ C:\Users\User\Desktop\Siv3D_reversi_ver3\Release\Siv3D_reversi_ver3.lib とオブジェクト C:\Users\User\Desktop\Siv3D_reversi_ver3\Release\Siv3D_reversi_ver3.exp を作成中
+  コード生成しています。
+  All 947 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  Siv3D_reversi_ver3.vcxproj -> C:\Users\User\Desktop\Siv3D_reversi_ver3\Release\Siv3D_reversi_ver3.exe
+  Siv3D_reversi_ver3.vcxproj -> C:\Users\User\Desktop\Siv3D_reversi_ver3\Release\Siv3D_reversi_ver3.pdb (Full PDB)

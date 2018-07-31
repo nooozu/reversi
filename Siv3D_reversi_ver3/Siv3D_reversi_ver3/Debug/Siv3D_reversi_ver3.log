@@ -1,0 +1,13 @@
+﻿cl : コマンド ライン warning D9030: '/Gm' はマルチプロセシングと互換性がありません。/MP スイッチを無視します
+  ReversiLog.cpp
+  Replay.cpp
+  Game.cpp
+c:\users\user\desktop\siv3d_reversi_ver3\siv3d_reversi_ver3\game.cpp(187): warning C4100: 'color': 引数は関数の本体部で 1 度も参照されません。
+c:\users\user\desktop\siv3d_reversi_ver3\siv3d_reversi_ver3\game.cpp(455): warning C4189: 'cw': ローカル変数が初期化されましたが、参照されていません
+c:\users\user\desktop\siv3d_reversi_ver3\siv3d_reversi_ver3\game.cpp(454): warning C4189: 'cb': ローカル変数が初期化されましたが、参照されていません
+  コードを生成中...
+  コンパイル中...
+  Title.cpp
+  コードを生成中...
+  Siv3D_reversi_ver3.vcxproj -> C:\Users\User\Desktop\Siv3D_reversi_ver3\Debug\Siv3D_reversi_ver3.exe
+  Siv3D_reversi_ver3.vcxproj -> C:\Users\User\Desktop\Siv3D_reversi_ver3\Debug\Siv3D_reversi_ver3.pdb (Full PDB)
